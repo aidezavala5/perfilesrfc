@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">catalogo</string>
+
+    //Inicio
+    <string name="no_perfiles">No hay perfiles que mostrar</string>
+    <string name="title_perfiles">Perfiles</string>
+    <string name="msj_perfil_eliminado">Se elimino el perfil</string>
+    <string name="no_coincidencias">No se encontraron resultados</string>
+
+    //Persona fisica
+    <string name="title_datos_gene">Datos Generales</string>
+    <string name="title_nombre">Nombre</string>
+    <string name="title_ape_pat">Apellido paterno</string>
+    <string name="title_ape_mat">Apellido materno</string>
+    <string name="title_telefono">Télefono</string>
+    <string name="title_correo">Correo eletrónico</string>
+    <string name="llenar_campos">Debe llenar todos los campos</string>
+    <string name="title_persona_fis">Persona Fisica</string>
+
+    //Validar rfc
+    <string name="title_agregar">Agregar perfil</string>
+    <string name="title_error">Error</string>
+    <string name="title_aceptar">Aceptar</string>
+    <string name="msj_rfc_existe">El rfc ya exist</string>
+    <string name="msj_rfc_correcto">Ingrese un rfc correcto</string>
+    <string name="campo_rfc">Proporcione RFC</string>
+    <string name="title_registro">Registro Federal de <br>Contribuyentes</br></string>
+
+    //Moral
+    <string name="title_moral">Persona Moral</string>
+    <string name="razon_social">Razón social</string>
+    <string name="datos_contacto">Datos de contacto</string>
+
+    //Domicilio
+    <string name="title_direccion">Dirección"</string>
+    <string name="title_pais">País</string>
+    <string name="title_estado">Estado</string>
+    <string name="title_municiopio">Municipio/Delegación</string>
+    <string name="title_ciudad">Ciudad/Localidad</string>
+    <string name="title_codg">Código postal</string>
+    <string name="title_colonia">Colonia</string>
+    <string name="title_calle">Calle</string>
+    <string name="title_num_ex">Número exterior</string>
+    <string name="title_numin">Número interior</string>
+    <string name="title_dom">Domicilio fiscal</string>
+    <string name="msj_guardado">Guardado con éxito</string>
+
+    //menu
+    <string name="menu_editar">Editar</string>
+    <string name="menu_borrar">Borrar</string>
+    <string name="menu_ver">Ver</string>
+    <string name="menu_todosper">Todos los perfiles</string>
+
+</resources>
